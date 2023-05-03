@@ -1,4 +1,4 @@
-# -MC2-202201213_PROYECTO
+# -MC2-202201213_PROYECTO FINAL
 # Nombre: 
 Juan Pablo Zúncar Aquino
 # Carné: 
